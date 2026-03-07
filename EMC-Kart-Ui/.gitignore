@@ -15,6 +15,7 @@ dist-ssr
 #Firebse Keys
 cred/
 serviceKey.json
+serviceKey.json.json
 
 # Editor directories and files
 .vscode/*
